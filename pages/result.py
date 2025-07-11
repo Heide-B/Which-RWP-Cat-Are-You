@@ -17,6 +17,7 @@ st.title(cat.upper(), width="content")
 
 color = st.image(f"cats/{cat}.jpg", caption="Meow meow")
 st.write(f"{CFG['description'][cat]}")
+st.write("This cat is adoptable! Reach out to CatsofRWP for more info.")
 c1, c2 =  st.columns([0.8, 0.2], vertical_alignment="center")
 
 with c2:

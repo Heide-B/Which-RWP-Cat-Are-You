@@ -20,7 +20,7 @@ col = 0
 for cats in res:
     with grid[col]:
         container = grid[col].container(border=True)
-        name = cats.split("\\")[-1].replace(".jpg","")
+        name = cats.split("\\")[-1].split('/')[-1].replace(".jpg","")
         container.image(cats)
         container.write(f"Name: {name}, Meet them at: {CFG['cat_location'][name]}")
     col = (col + 1) % row
