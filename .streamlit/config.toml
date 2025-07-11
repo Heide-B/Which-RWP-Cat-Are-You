@@ -1,0 +1,11 @@
+[theme]
+base="light"
+primaryColor="#3f3e3e"
+backgroundColor="#f6e5ea"
+textColor="#3f3e3e"
+baseRadius = "large"
+
+baseFontSize = 20
+
+[client]
+showSidebarNavigation = false

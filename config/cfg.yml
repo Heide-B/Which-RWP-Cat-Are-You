@@ -1,0 +1,102 @@
+cat_scores:
+  bangs: "00101101"
+  cedie: "10010010"
+  cereal: "11100110"
+  hapon: "10010000"
+  ingay: "10011000"
+  katsu: "00011101"
+  mother: "11011000"
+  pirate: "11010001"
+  puti: "00011000"
+  rice: "11000110"
+  willow: "01101000"
+
+social_cats:
+  1: hapon
+  2: hapon
+  3: puti
+  4: puti
+  5: pirate
+  6: cedie
+  7: cedie
+  8: katsu
+
+nonsocial_cats:
+  8: mother
+  7: mother
+  6: ingay
+  5: willow
+  4: rice
+  3: rice
+  2: cereal
+  1: cereal
+
+cat_location:
+  bangs: Diamond
+  cedie: RWP Foster Home
+  cereal: Ivory
+  hapon: Blue Tent
+  ingay: Garnet
+  katsu: Sapphire
+  mother: Diamond
+  pirate: Amber/Ruby
+  puti: Garnet
+  rice: RWP Foster Home
+  willow: RWP Foster Home
+
+quiz_labels:
+  social: question1
+  talkative: question2
+  energetic: question5
+  chill: question6
+  loner: question3
+  outdoors: question4
+  young: question7
+  chunky: question8
+
+q_answers:
+  question1:
+    - "A big party or group hangout"
+    - "Jogging with friends or my pets"
+  question2:
+    - "Lead the conversation and keep things lively"
+    - "Discuss with a few people"
+  question3:
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+  question4:
+    - "A buzzing cafe"
+    - "An open beach"
+  question5:
+    - "High-energy and always moving"
+    - "Playful and bubbly"
+  question6:
+    - "I stay calm and go with the flow"
+    - "I need time alone to reset"
+  question7:
+    - "New plushies or fun stickers"
+    - "Trying a new outdoor activity"
+  question8:
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+
+description:
+  bangs: "Incredibly friendly and always ready for a snack or a play session! A lovable chunky companion with a heart (and belly) full of joy."
+  cedie: "A sweet, gentle giant with stunning, one-of-a-kind coloring. He’s a seasoned indoor buddy who gets along great with other cats."
+  cereal: "A playful little sweetheart who adores face rubs and wet food! This cuddly kitten has all the charm and love you’re looking for."
+  hapon: "With his unique, anime-style charm, this laid-back kitty is the cool kid of the cat world—totally relaxed and great with humans and fellow felines."
+  ingay: "Toothless but full of love! This gentle soul is all about belly rubs and low-key playtime—perfect for a calm, loving home."
+  mother: "A chatty foodie with a mellow vibe! Loves to gossip (especially about food), eats like a champ despite having no teeth, and has a past history of kidney issues—but full of personality and love."
+  katsu: "The ultimate orange heartthrob—handsome, relaxed, and effortlessly cool. He’s the chill king of the crew!"
+  pirate: "A delightfully chonky sweetheart who’s always down for belly rubs and snacks! So round he sleeps on his side—cutely irresistible and super friendly."
+  puti: "Calm, cuddly, and the definition of a professional napper. Low-energy lovebug who may have a hernia but just wants to snuggle the day away."
+  willow: "Indoor-savvy and easygoing with other cats, this vocal foodie lives for mealtime and playtime—RWP’s very own chatterbox charmer!"
+  rice: "The boss baby of the bunch! Confident and caring, this little survivor is playful, sweet, and loves looking after the younger kittens."
