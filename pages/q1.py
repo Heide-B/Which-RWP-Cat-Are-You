@@ -12,7 +12,7 @@ weekend = st.radio(
     width="stretch"
 )
 
-st.container(height=250, border=False)
+st.container(height=200, border=False)
 c1, c2 =  st.columns([0.8, 0.2], vertical_alignment="center")
 
 with c2:
